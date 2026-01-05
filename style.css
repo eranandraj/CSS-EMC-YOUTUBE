@@ -1,6 +1,12 @@
-#one {
+.one {
     color: red;
 }
 .two {
-    color: blue;
+    color: black;
+}
+#one {
+    color: red;
+}
+#two {
+    color: black;
 }
