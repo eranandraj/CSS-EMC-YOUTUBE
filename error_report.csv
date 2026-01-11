@@ -1,0 +1,5 @@
+row_number,order_id,error_details
+2,ORD002,Delivery date before order date
+3,ORD003,Invalid quantity
+4,ORD004,Missing ID
+5,ORD005,Delivery date before order date

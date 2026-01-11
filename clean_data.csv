@@ -1,0 +1,2 @@
+order_id,customer_id,order_date,delivery_date,quantity,price
+ORD001,CUST1001,01-01-2024,05-01-2024,10,500
